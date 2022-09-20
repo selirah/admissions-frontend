@@ -1,0 +1,60 @@
+export const messages = {
+  registerSuccess:
+    'You have successfully registered. Enter the code sent to you via SMS in the box below to activate account',
+  resendSuccess:
+    'You have successfully reset code. Please enter code sent to you via SMS below to activate account',
+  resetSuccess:
+    'A new temporal password has been send to you via SMS. Use it to login and change your password',
+  verifySuccess:
+    'You have successfully verified your account. Please login to proceed',
+  addSchoolSuccess:
+    'You have successfully set up school. You can now begin to use this platform',
+  updateSchoolSuccess: 'You have successfully updated school.',
+  imagePNGorJPG: 'You can only upload JPG/PNG file!',
+  image2MB: 'Image must be smaller than 2MB!',
+  logoSuccess: 'School logo has been updated successfully',
+  signatureSuccess: 'Letter signature has been updated successfully',
+  addProgrammeSuccess: 'Programme added successfully',
+  updateProgrammeSuccess: 'Programme updated successfully',
+  deleteProgrammeSuccess: 'Programme deleted successfully',
+  setUpSchool:
+    'Make sure you add a school before you can perform any other operation',
+  programmeExist: 'This programme already exists',
+  addFeeSuccess: 'Fee successfully added',
+  deleteFeeSuccess: 'Fee deleted successfully',
+  admissionLetter: 'Make sure you type in something',
+  addAdmissionLetterSuccess: 'Admission letter created successfully',
+  updateAdmissionLetterSuccess: 'Admission letter updated successfully',
+  uploadLetterHeadSuccess: 'Letter head uploaded successfuly!',
+  uploadLetterFooterSuccess: 'Letter footer uploaded successfuly!',
+  uploadDocsSuccess: 'Documents uploaded successfuly!',
+  addStudentSuccess: 'Student added successfully',
+  updateStudentSuccess: 'Student updated successfully',
+  deleteStudentSuccess: 'Student deleted successfully',
+  studentsAction: 'Students action performed successfully',
+  studentAction: 'Student action performed successfully',
+  selectExcel: 'Select an excel file to import',
+  addTransferSuccess: 'Transfer request submitted successfully',
+  deleteTransferSuccess: 'Transfer request deleted successfully',
+  transferAction: 'Transfer action performed successfully',
+  trainingCreated: 'Training has been created successfully',
+  trainingUpdated: 'Training has been updated successfully',
+  trainingDeleted: 'Training has been deleted successfully',
+  photoType: 'Make sure you upload a .jpg, .jpeg, or a png file',
+  photoSize: 'Image should be less than 2MB',
+  registeredTraining: 'You have successfully registered training',
+  uploadStudents: 'Students have been uploaded successfully',
+  noticeCreated: 'Notice has been created successfully',
+  updateProfile: 'Profile updated successfully!',
+  changePassword:
+    'Password has been changed. Use this new password to login next time',
+  excelType: 'Make sure you upload a .xlsx file',
+  columnError:
+    'Make sure you use the exact column names as found in the template',
+  uploadCourses: 'Courses are uploaded successfully',
+  uploadResults: 'Results are uploaded successfully',
+  emptyExcel: 'You should upload excel with content',
+  deleteResultSuccess: 'Results deleted successfully',
+  publishResultsSuccess: 'Results have been published successfully',
+  sendSMSSuccess: 'Notification sent out successfully'
+}
